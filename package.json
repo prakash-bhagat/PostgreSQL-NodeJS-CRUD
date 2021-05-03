@@ -1,0 +1,22 @@
+{
+  "name": "postgresql-nodejs-crud",
+  "version": "1.0.0",
+  "description": "NodeJS CRUD api with PostgreSQL",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "|",
+    "PostgreSQL",
+    "|",
+    "Express"
+  ],
+  "author": "Prakash",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.6.0"
+  }
+}
