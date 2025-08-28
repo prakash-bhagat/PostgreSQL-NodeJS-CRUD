@@ -1,6 +1,5 @@
 # PostgreSQL-NodeJS-CRUD API
 
-[![License](https://img.shields.io/github/license/prakash-bhagat/PostgreSQL-NodeJS-CRUD?style=for-the-badge)](./LICENSE)  
 [![Issues](https://img.shields.io/github/issues/prakash-bhagat/PostgreSQL-NodeJS-CRUD?style=for-the-badge)](https://github.com/prakash-bhagat/PostgreSQL-NodeJS-CRUD/issues)  
 [![Last Commit](https://img.shields.io/github/last-commit/prakash-bhagat/PostgreSQL-NodeJS-CRUD?style=for-the-badge)](https://github.com/prakash-bhagat/PostgreSQL-NodeJS-CRUD/commits/main)
 
